@@ -17,5 +17,10 @@ export const DropdownStyles = styled.div`
     font-size: 18px;
 
     transition: opacity 0.2s;
+
+    &:hover,
+    &:focus {
+      opacity: 0.55;
+    }
   }
 `
