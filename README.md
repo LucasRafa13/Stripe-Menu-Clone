@@ -18,9 +18,9 @@ UI Clone - Stripe Menu
 
 ## Participants
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/LucasRafa13)
+[<img src="https://avatars3.githubusercontent.com/LucasRafa13" width="75px;"/>](https://github.com/LucasRafa13)
 
-[Guilherme Rodz](https://github.com/LucasRafa13)
+[Lucas Lima](https://github.com/LucasRafa13)
 
 ## Techs
 
